@@ -1,6 +1,6 @@
 # 🧠 MIT 6.006 — Introduction to Algorithms
 
-This repository contains my **solutions to the problem sets** from the [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) course.
+This repository contains my **solutions to the problem sets** from the [MIT 6.006: Introduction to Algorithms] course.
 
 ---
 
